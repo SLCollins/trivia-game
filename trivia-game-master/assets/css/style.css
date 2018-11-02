@@ -1,0 +1,60 @@
+body {
+    background: url('../images/cryptid.png');
+
+}
+
+#rootContainer {
+    background: url('../images/rootContainerBackground.png');
+    
+    font-family: 'East Sea Dokdo', cursive;
+
+    color: rgb(5, 5, 97);
+
+    font-size; 30px;
+
+    text-align: center;
+
+    align-content: center;
+
+    background-color: grey; 
+
+    width: 70%;
+
+    height: 670px;
+
+    margin-left: 220px;
+
+}
+
+.optionsBtn {
+    background-color: grey;
+    color: rgb(5, 5, 97);
+    font-family: 'East Sea Dokdo', cursive; 
+    font-size: 40px;
+    border: 5px solid rgb(5, 5, 97);
+}
+
+#startBtn, #resetBtn {
+    background-color: grey;
+    color: rgb(5, 5, 97);
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 40px;
+    border: 5px solid rgb(5, 5, 97);
+}
+
+.questionsdDiv{
+    font-size: 40px;
+}
+.thisChoice{
+    font-size:40px;
+}
+#message, #correctedAnswer{
+   
+    font-size: 40px;
+}
+
+#finishedGame, #correctAnswers, #incorrectAnswers, #unansweredQs {
+   
+   font-size: 40px;
+   
+}
